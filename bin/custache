@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby -w
+require 'custache'
+puts "To do..."
